@@ -1,0 +1,11 @@
+Epoch 1/10, Validation Accuracy: 0.9095714285714286
+Epoch 2/10, Validation Accuracy: 0.9164285714285715
+Epoch 3/10, Validation Accuracy: 0.9201428571428572
+Epoch 4/10, Validation Accuracy: 0.9191428571428572
+Epoch 5/10, Validation Accuracy: 0.9215714285714286
+Epoch 6/10, Validation Accuracy: 0.9248571428571428
+Epoch 7/10, Validation Accuracy: 0.9248571428571428
+Epoch 8/10, Validation Accuracy: 0.9242857142857143
+Epoch 9/10, Validation Accuracy: 0.9244285714285714
+Epoch 10/10, Validation Accuracy: 0.9252857142857143
+Test Accuracy: 0.9237142857142857
